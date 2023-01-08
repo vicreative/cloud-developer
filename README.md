@@ -16,7 +16,7 @@ Here is the repository structure:
 │   └── project
 └── course-04
     ├── exercises
-    └── project
+    └── project 
 ```
 
 
